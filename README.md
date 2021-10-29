@@ -22,3 +22,4 @@ HEADERS content-type: 'application/json'
 }
 ```
 ## Informações Técnicas
+* Sistema Operacional Linux devido aos comandos do notebook
