@@ -24,12 +24,12 @@ HEADERS content-type: 'application/json'
 ## Informações Técnicas
 ## Gráfico Explicativo
 
- <figure>
+ <figure style="text-align:center">
   <img src="readme/estrutura1.png" alt="">
   <figcaption>Fluxograma de como a tradução é gerada.</figcaption>
 </figure> 
 
- <figure>
+ <figure style="text-align:center">
   <img src="readme/estrutura2.png" alt="">
   <figcaption>Fluxograma de como a API retorna a tradução para o usuário.</figcaption>
 </figure> 
