@@ -22,6 +22,12 @@ HEADERS content-type: 'application/json'
 }
 ```
 ## Informações Técnicas
+## Gráfico Explicativo
+![](readme/estrutura1.png)
+Fluxograma de como a tradução é gerada.
+
+![](readme/estrutura2.png)
+Fluxograma de como a API retorna a tradução para o usuário.
 
 ## Processo de Instalação e Execução
 Primeiramente devemos executar o notebook Notebook_Preparacao.ipynb, que irá baixar todos os modelos e dados importantes para a execução do projeto.
