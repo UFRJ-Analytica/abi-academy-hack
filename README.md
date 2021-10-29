@@ -10,4 +10,15 @@ Uma das formas de centralizar o chatbot para todas as línguas, é possuir uma A
 
 Além dessa aplicação, ter essa API de tradução pode ajudar a empresa em diversas outras tarefas de comunicação internas, facilitando a comunicação de seus funcionários que não possuem fluência no outro idioma.
 
-### 
+### Solução
+Foi construída uma API em Flask, que funciona como camada de tradução. Para que o texto seja traduzido basta realizar uma requisição ao link onde a API está rodando.
+Abaixo, temos um exemplo de requisição
+```
+POST https://ufrjanalytica.loca.lt/fr_en
+HEADERS content-type: 'application/json'
+
+{
+    "text": "J'aime Ambev"
+}
+```
+## Informações Técnicas
