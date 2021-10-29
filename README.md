@@ -27,4 +27,9 @@ HEADERS content-type: 'application/json'
 ## Pré requisitos
 ### Linguagens
 <li> Python </li>
-# Bibliotecas 
+
+### Bibliotecas
+<li>ctranslate2</li>
+<li>nltk</li>
+<li>Flask</li>
+<li>OpenNMT</li>
