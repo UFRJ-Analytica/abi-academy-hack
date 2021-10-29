@@ -26,13 +26,13 @@ HEADERS content-type: 'application/json'
 ## Gráfico Explicativo
 
  <figure>
+    <figcaption>Fluxograma de como a tradução é gerada.</figcaption>
   <img src="readme/estrutura1.png" alt="" style="text-align: center;">
-  <figcaption>Fluxograma de como a tradução é gerada.</figcaption>
 </figure> 
 
  <figure>
-  <img src="readme/estrutura2.png" alt="" style="text-align: center;">
   <figcaption>Fluxograma de como a API retorna a tradução para o usuário.</figcaption>
+    <img src="readme/estrutura2.png" alt="" style="text-align: center;">
 </figure> 
 
 ## Processo de Instalação e Execução
