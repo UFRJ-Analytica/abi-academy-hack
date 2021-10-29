@@ -18,6 +18,7 @@ POST https://ufrjanalytica.loca.lt/fr_en
 HEADERS content-type: 'application/json'
 
 {
-    "text": "je suis ronald"
+    "text": "J'aime Ambev"
 }
 ```
+## Informações Técnicas
