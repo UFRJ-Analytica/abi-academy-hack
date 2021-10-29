@@ -25,8 +25,8 @@ HEADERS content-type: 'application/json'
 
 ## Pré requisitos
 ### Linguagens
-<li> Python </li>
+* Python 
 ### Sistema Operacional
-<li> Linux </li>
+* Linux 
 ### Bibliotecas 
-<li> Bibliotecas: ctranslate2, sentencepiece, flask, flask_restful, nltk, pandas, json </li>
+* ctranslate2, sentencepiece, flask, flask_restful, nltk, pandas, json
