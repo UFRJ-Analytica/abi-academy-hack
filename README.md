@@ -46,6 +46,9 @@ Com isso feito, podemos iniciar a execução da API de tradução, junto com os 
 ### Bibliotecas 
 * ctranslate2, sentencepiece, flask, flask_restful, nltk, pandas, json
 
+## Apresentação
+https://docs.google.com/presentation/d/1OR3WpQhCR-prn0A2cWBWbRpRIBUxmSAXI98TZ80utgc/edit?usp=sharing
+
 # Equipe
 
 | [<img src="https://ufrjanalytica.ml/img/team/competition/fernanda_severo.jpg" width="115"><br><sub>@FernandaSevero</sub>](https://github.com/FernandaSevero) | [<img src="https://ufrjanalytica.ml/img/team/competition/ronald_albert.jpg" width="115"><br><sub>@ronaldalbertjr</sub>](https://github.com/ronaldalbertjr) | [<img src="https://ufrjanalytica.ml/img/team/competition/vinicius_lettieri.jpg" width="115"><br><sub>@viniciuslettieri</sub>](https://github.com/viniciuslettieri) |
