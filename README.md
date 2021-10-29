@@ -23,3 +23,8 @@ HEADERS content-type: 'application/json'
 ```
 ## Informações Técnicas
 * Sistema Operacional Linux devido aos comandos do notebook
+
+## Pré requisitos
+### Linguagens
+<li> Python </li>
+# Bibliotecas 
