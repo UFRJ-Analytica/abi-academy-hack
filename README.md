@@ -22,14 +22,11 @@ HEADERS content-type: 'application/json'
 }
 ```
 ## Informações Técnicas
-* Sistema Operacional Linux devido aos comandos do notebook
 
 ## Pré requisitos
 ### Linguagens
 <li> Python </li>
-
-### Bibliotecas
-<li>ctranslate2</li>
-<li>nltk</li>
-<li>Flask</li>
-<li>OpenNMT</li>
+### Sistema Operacional
+<li> Linux </li>
+### Bibliotecas 
+<li> Bibliotecas: ctranslate2, sentencepiece, flask, flask_restful, nltk, pandas, json </li>
